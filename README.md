@@ -117,28 +117,3 @@ Here are some screenshots demonstrating the application's functionality:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any inquiries or issues, please contact Mehdi Rahimi at [your email address].
-```
-
-### Instructions to Add the README.md to Your Repository
-
-1. **Create the README.md File:**
-   ```sh
-   touch README.md
-   ```
-
-2. **Open the README.md File:**
-   Open the `README.md` file in a text editor and paste the above content into it.
-
-3. **Stage and Commit the README.md File:**
-   ```sh
-   git add README.md
-   git commit -m "Add detailed README.md"
-   ```
-
-4. **Push the Changes to the Repository:**
-   ```sh
-   git push origin main
-   ```
